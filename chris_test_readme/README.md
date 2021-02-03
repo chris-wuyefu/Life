@@ -1,4 +1,4 @@
-#![](https://github.com/chris-wuyefu/Life/blob/master/image/202122-14051.jpeg)  
+![](https://github.com/chris-wuyefu/Life/blob/master/image/202122-14051.jpeg)  
 
 chris life 1.0
 =========================
