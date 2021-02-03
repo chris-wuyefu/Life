@@ -8,8 +8,10 @@ Feature
 
 Release Notes
 =========================
-- **0.0.2**  2021-02-03
-	- ~~Add image.
-	- ~~Add readme.
-- **0.0.1**  2021-02-03
-	- ~~Default.
+- **0.0.3**  2021-02-03
+    - update readme
+- [x] **0.0.2**  2021-02-03
+	- ~~Add image.~~
+	- ~~Add readme.~~
+- [x] **0.0.1**  2021-02-03
+	- ~~Default.~~
